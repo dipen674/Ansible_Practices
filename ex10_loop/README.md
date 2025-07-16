@@ -1,5 +1,5 @@
-# In this example i am practicing Conditionals
+# In this example i am practicing LOOP
 
 
 
-For now i am installing packages based on their os-distribution
+For this i am installing multiple packages with the help of loop and also adding multiple users with the help of loop.
